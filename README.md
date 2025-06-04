@@ -77,7 +77,9 @@ To see hidden files:
 ```bash
 ls -la
 ```
-📸 *(Screenshot here of `ls -la` showing `.git` folder)*
+<img width="890" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/b7ea64cd-f084-4932-a1df-2559e95e8bcc" />
+
+
 
 Inside `.git` folder:
 ```bash
@@ -92,11 +94,8 @@ ls
 
 ## Git Workflow Diagram
 
-*(Add your image here)*
+<img width="535" alt="Pasted Graphic 2" src="https://github.com/user-attachments/assets/2a96fbdd-c0df-4d56-88da-fefb92d8cbc3" />
 
-```markdown
-![Git Workflow Diagram](./path-to-your-image.png)
-```
 
 ### Quick Summary:
 - `git add` ➔ moves changes to **Staging Area**.
@@ -116,7 +115,8 @@ git status
 - `git add <file>` — adds specific file to staging.
 - `git add .` — adds everything to staging.
 
-*(Screenshot showing staged and unstaged files)*
+<img width="893" alt="here so be eated aites  to untose)" src="https://github.com/user-attachments/assets/d2319485-5522-4aa9-a53a-524e55d18d62" />
+
 
 To undo staging:
 ```bash
@@ -127,7 +127,9 @@ To commit:
 ```bash
 git commit -m "add file one"
 ```
-*(Screenshot of commit message and Git Graph view)*
+<img width="895" alt="Pasted Graphic 4" src="https://github.com/user-attachments/assets/8b070d89-1528-4070-aa94-26ec74388b1f" />
+
+<img width="900" alt="Pasted Graphic 5" src="https://github.com/user-attachments/assets/426afd39-d0a3-4ef5-b361-93e04c77abbe" />
 
 ---
 
@@ -168,6 +170,7 @@ To confirm:
 ```bash
 git config --global user.name
 ```
+<img width="786" alt="Setting your Git username for every repository on your computer" src="https://github.com/user-attachments/assets/a40c0cd3-0d23-4d83-a0d8-b3b8cccc6b17" />
 
 ---
 
@@ -181,7 +184,8 @@ To confirm:
 git config user.name
 ```
 
-*(Screenshots attached here for global and local username setups)*
+<img width="792" alt="Setting your Git username for a single repository a" src="https://github.com/user-attachments/assets/d9c811d3-6c76-4d3f-9754-2af9e5556110" />
+
 
 ---
 
@@ -192,7 +196,8 @@ git log
 git log --oneline
 ```
 
-*(Screenshots of the commit log and oneline view)*
+<img width="899" alt="Pasted Graphic 6" src="https://github.com/user-attachments/assets/22b1127e-77a6-4014-8c29-b2c153c1aadb" />
+
 
 ---
 
@@ -203,26 +208,6 @@ git log --oneline
 - `git diff` — shows what changed but not yet staged.
 - `git diff --staged` — shows what’s staged but not committed yet.
 
----
-
-# 🌟 Still Continuing...
-
-More notes and practice coming as I learn!  
-I’ll update this README as I go along 🚀
-
----
-
-### 📸 Screenshot Index
-
-- `.git` hidden folder
-- Inside `.git`
-- Git Workflow Diagram
-- Git Add and Commit (staged files)
-- Git Graph view
-- Git Log and Oneline
-- Git Config Global/Local username
-
----
 
 **💬 Side note:**  
 If you’re reading this — don’t worry if you’re slow. Git takes a little time to get used to. Keep practicing small things every day.
