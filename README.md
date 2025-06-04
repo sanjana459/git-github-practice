@@ -1,8 +1,8 @@
 # Git and GitHub Practice 🚀
 
-This repo contains all my hands-on practice and notes while learning Git and GitHub following [this video tutorial](https://www.youtube.com/watch?v=zTjRZNkhiEU).
+This repo contains all my hands-on practice and notes while learning Git and GitHub
 
-I’m posting all the commands, small learnings, and screenshots to show my understanding while doing it. (Very real, no fancy edits 😅)
+I’m posting all the commands, small learnings, and screenshots to show my understanding while doing it. (Very real, no fancy edits, hehe)
 
 ---
 
